@@ -1,6 +1,6 @@
 # dragaptcha
 
-Use it at own cautions, this is just a prototype.
+Use this at your own cautions, this is just a prototype.
 Actual proprietary captcha service by dragaptcha is under development, will ship soon.
 Initial release will be as a npm package.
 
